@@ -12,6 +12,7 @@
 - mysql.connector
  
 ## Como rodar o projeto
+<p>Instalar as bibliotescas requests, pprint e a mysql.connector </p>
 <p> Para rodar o projeto basta baixar os arquivos, importar o banco de dados, abrir a sua IDE e executar o codigo phyton chamando as funçoes mediaCell() e cadastrarNoBanco().
 <p> Nessas funções, uma calcula a media de preço dos celulares e a outra cadastra os itens que a api fornece no banco de dados(produtos).
 <p> Na funçao de cadastrar produtos, trato uma exceção se o id ja foi cadastrado ou nao.
