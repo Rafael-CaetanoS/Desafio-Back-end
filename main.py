@@ -18,7 +18,7 @@ conexao = mysql.connector.connect(
     host='localhost',
     user='root',
     #essa senha que coloquei é so um exemplo, vc vai ter que colocar a sua
-    password='36282411',
+    password='1234',
     database='desafio'
 )
 cursor = conexao.cursor()
