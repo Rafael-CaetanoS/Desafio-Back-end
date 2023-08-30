@@ -1,6 +1,7 @@
 # Desafio Back end
 
 <p>Projeto realizado no dia 06/05</p>
+<p>Sistema que permite calcular a média de um produto específico obtido de uma API, além de cadastrar todos os produtos presentes nessa API em um banco de dados. Ao final, o sistema exibe uma mensagem aleatória do Chuck Norris, obtida de outra API.</p>
 
 ## Linguagem e banco de dados utilizados
 - Python
